@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/face-grin.svg" width="50" height="50">
+Laser optimizer
